@@ -16,7 +16,4 @@ def text_to_pdf(input_path, output_path):
 
     pdf.output(output_path)
 
-text_to_pdf("example.txt", "output.pdf")
-
-def img_to_pdf(input_path, output_path):
-    pdf = PDF()
+text_to_pdf("example.txt", "text.pdf")
