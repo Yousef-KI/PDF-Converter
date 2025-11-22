@@ -1,9 +1,2 @@
-*.txt
-
-*.pdf
-
-*.png
-
-*.jpg
-
-*
+example.txt
+output.pdf
